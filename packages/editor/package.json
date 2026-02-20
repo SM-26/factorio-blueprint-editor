@@ -12,7 +12,7 @@
     "homepage": "https://github.com/Teoxoy/factorio-blueprint-editor",
     "dependencies": {
         "@pixi/basis": "^6.2.0",
-        "ajv": "^6.12.6",
+        "ajv": "^8.18.0",
         "delaunator": "^5.0.0",
         "eventemitter3": "^4.0.7",
         "keyboardjs": "^2.6.4",
